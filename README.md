@@ -1,5 +1,4 @@
-@@ -1,130 +1,144 @@
-<div align="center">
+-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaswanth%20Narravula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20MS%20CS%20%40%20UAB&descAlignY=55&descSize=18" width="100%"/>
 
@@ -8,116 +7,81 @@
 </div>
 
 ---
+## Core Strengths
 
-## 👨‍💻 About Me
+<div align="center">
 
-```python
-class JaswanthNarravula:
-    def __init__(self):
-        self.name        = "Jaswanth Narravula"
-        self.education   = "MS Computer Science @ University of Alabama at Birmingham"
-        self.focus       = ["Full-Stack Engineering", "Cloud & DevOps", "AI/ML Systems"]
-        self.languages   = ["Python", "TypeScript", "JavaScript", "Java"]
-        self.passion     = "Shipping products that scale from zero to millions"
-        self.goal        = "Engineer at a world-class company — Google · Meta · Amazon"
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-    def currently(self):
-        return {
-            "building"  : "Production-grade full-stack applications",
-            "learning"  : "Distributed systems & LLM integrations",
-            "portfolio" : "https://github.com/Jaswanthnarravula/Portfolio-Jaswanth",
-        }
-```
+### Backend Engineering
+- Python
+- FastAPI
+- Flask
+- Node.js
+- REST APIs
+- GraphQL
+- WebSockets
+
+</td>
+<td width="33%" valign="top">
+
+### Frontend & Product
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Responsive UI
+- Component architecture
+
+</td>
+<td width="33%" valign="top">
+
+### Cloud & Data
+- AWS
+- Azure
+- Docker
+- Kubernetes
+- PostgreSQL
+- MongoDB
+- Redis
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
+## Tech Stack
 
-## 🛠️ Tech Stack
-
-**Languages**
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top" align="center">
 
-**💻 Languages**
+### Languages
+[![Languages](https://skillicons.dev/icons?i=python,ts,js,java,bash&theme=dark&perline=5)](https://skillicons.dev)
 
-[![Languages](https://skillicons.dev/icons?i=python,ts,js,java&theme=dark)](https://skillicons.dev)
+### Backend & APIs
+[![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,flask,graphql,postgres&theme=dark&perline=5)](https://skillicons.dev)
+
+### Cloud & DevOps
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,githubactions,linux&theme=dark&perline=7)](https://skillicons.dev)
 
 </td>
-<td align="center" width="50%">
+<td width="60%" valign="top" align="center">
 
-**🎨 Frontend**
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5)](https://skillicons.dev)
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
+### Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase&theme=dark&perline=5)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**Frontend**
-**⚙️ Backend & APIs**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-[![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,flask,graphql&theme=dark)](https://skillicons.dev)
-
-**Backend & APIs**
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)&nbsp;![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-</td>
-<td align="center" width="50%">
-
-**AI / ML**
-**🤖 AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-[![AI/ML](https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark)](https://skillicons.dev)
-
-**Databases**
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-**🗄️ Databases**
-
-**Cloud, DevOps & Observability**
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase&theme=dark)](https://skillicons.dev)
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-</td>
-<td align="center" width="50%">
-
-**☁️ Cloud & DevOps**
-
-[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git&theme=dark)](https://skillicons.dev)
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)&nbsp;![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+### AI / ML & Tools
+[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,vscode,postman&theme=dark&perline=5)](https://skillicons.dev)
 
 </td>
 </tr>
@@ -127,21 +91,40 @@ class JaswanthNarravula:
 
 ---
 
-## 📊 GitHub Stats
+## What I Build
+
+- **Production-ready web applications** with clean architecture and maintainable codebases
+- **Backend services and automation pipelines** for data processing, reporting, and operations
+- **Modern dashboards and internal tools** with a strong focus on usability and reliability
+- **AI/ML-integrated systems** that connect practical business workflows with intelligent features
+
+---
+
+## Featured Work
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Portfolio Website** | Personal portfolio built with a modern frontend stack and deployed for professional presentation | Next.js · TypeScript · Tailwind CSS |
+| **Full-Stack Applications** | End-to-end product development across frontend, backend, APIs, authentication, and databases | React · Node.js · Python · PostgreSQL |
+| **Automation & Analytics Workflows** | Reporting, data ingestion, and process automation for operational systems | Python · PostgreSQL · APIs |
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Jaswanthnarravula&theme=tokyonight&hide_border=true&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jaswanthnarravula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=CBD5E1&icon_color=818CF8&ring_color=A78BFA&rank_icon=github" height="190" alt="GitHub Stats" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanthnarravula&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=CBD5E1" height="190" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jaswanthnarravula&show_icons=true&theme=tokyonight&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanthnarravula&layout=compact&theme=tokyonight&hide_border=true&title_color=6AD3F7" height="165" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Jaswanthnarravula&hide_border=true&background=0D1117&stroke=334155&ring=A78BFA&fire=818CF8&currStreakLabel=E9D5FF&sideNums=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=CBD5E1" width="75%" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswanthnarravula&theme=tokyo-night&hide_border=true&area=true&color=6AD3F7&line=6AD3F7&point=ffffff" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswanthnarravula&bg_color=0D1117&color=C4B5FD&line=818CF8&point=E2E8F0&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
