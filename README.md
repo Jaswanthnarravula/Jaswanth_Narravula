@@ -1,8 +1,8 @@
 -<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaswanth%20Narravula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20MS%20CS%20%40%20UAB&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaswanth%20Narravula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Masters%20in%20Computer%20Science%20%40%20University%20of%20Alabama%20at%20Birmingham&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+Systems+Builder;Cloud-Native+%7C+AI%2FML+Practitioner;Open+to+FAANG+%26+Top-Tier+Opportunities;Building+scalable%2C+production-grade+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+Systems+Builder;Building+scalable%2C+production-grade+software)](https://git.io/typing-svg)
 
 </div>
 
@@ -114,7 +114,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jaswanthnarravula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&icon_color=22C55E&ring_color=6366F1&rank_icon=github" height="190" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jaswanthnarravula&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&icon_color=22C55E&ring_color=6366F1&rank_icon=github" height="190" alt="GitHub Stats" />
 &nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanthnarravula&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" height="190" alt="Top Languages" />
 
