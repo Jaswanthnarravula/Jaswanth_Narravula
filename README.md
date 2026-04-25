@@ -1,4 +1,4 @@
--<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaswanth%20Narravula&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Masters%20in%20Computer%20Science%20%40%20University%20of%20Alabama%20at%20Birmingham&descAlignY=55&descSize=18" width="100%"/>
 
