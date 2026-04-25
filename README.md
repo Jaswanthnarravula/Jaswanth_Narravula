@@ -114,17 +114,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jaswanthnarravula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=CBD5E1&icon_color=818CF8&ring_color=A78BFA&rank_icon=github" height="190" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jaswanthnarravula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&icon_color=22C55E&ring_color=6366F1&rank_icon=github" height="190" alt="GitHub Stats" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanthnarravula&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=CBD5E1" height="190" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanthnarravula&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" height="190" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Jaswanthnarravula&hide_border=true&background=0D1117&stroke=334155&ring=A78BFA&fire=818CF8&currStreakLabel=E9D5FF&sideNums=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=CBD5E1" width="75%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Jaswanthnarravula&hide_border=true&background=0D1117&stroke=1F2937&ring=F97316&fire=FB923C&currStreakLabel=FDBA74&sideNums=E5E7EB&currStreakNum=F97316&dates=9CA3AF&sideLabels=FB923C" width="75%" alt="GitHub Streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswanthnarravula&bg_color=0D1117&color=C4B5FD&line=818CF8&point=E2E8F0&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswanthnarravula&bg_color=0D1117&color=F8FAFC&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
